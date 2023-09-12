@@ -1,2 +1,25 @@
 # Atliq_Technology_Profit_Loss_optimization
 Profit and Loss optimisation for sales in Atliq Technology
+
+## Problem Statement
+We will use company called AtliQ Hardware and discuss its business model. It is a consumer goods electronics company having operations in various countries. Their business is growing rapidly and they still rely on excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faced a major loss in Latin America.
+Senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
+
+## Process
+1. Spending time to understand the problem, the end goal, and the bigger picture of the project is the very important first step of any project.
+2. It is critical to constantly align your understanding of project scope, requirements, and timelines with the product owner / key stakeholder throughout the project.
+3. The profit and loss statement is the most important piece of analysis any company will need.
+
+## Objectives
+1. Understanding the data in SQL and creating Views for connecting to Power BI to create Direct query storage mode.
+2. Performing ETL operations in Power Query.
+3. Building Data Models to create relationships for extracting deeper insights from the data. 
+4. Writing measures and creating calculated tables to meet the business and stake holder requirements.
+5. Building Visuals to meet the stakeholder requirements.
+6. Maintenance of Data security through Row level security and Microsoft sensitivity labels.
+7. Deploying the solution and setting up of refresh schedule through gateway. 
+
+## Visual Requirements
+1. For the sales team, Gross Margin and Net Sales (Revenue) are more important than the Net Profit as typically they have least or no control over operating expenses.
+2. For the marketing team, it would be important to understand the marketing spend change over a time period and subsequent Revenue / Gross Margin change.
+3. For the supply chain team, import metrics are, Forecast Accuracy & Risk (Out of stock or excess inventory), Net error and Absolute error.
