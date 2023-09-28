@@ -1,6 +1,11 @@
 # Atliq_Technology_Profit_Loss_optimization
 Profit and Loss optimisation for sales in Atliq Technology
 
+## Data Flow Architecture
+
+![image](https://github.com/Mith1201/Atliq_Technology_Profit_Loss_optimization/assets/102762042/1224f75e-3540-4e2e-9d91-ade27683e16f)
+
+
 ## Problem Statement
 We will use company called AtliQ Hardware and discuss its business model. It is a consumer goods electronics company having operations in various countries. Their business is growing rapidly and they still rely on excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faced a major loss in Latin America.
 Senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
