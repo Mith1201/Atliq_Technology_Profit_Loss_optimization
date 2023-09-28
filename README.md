@@ -16,13 +16,14 @@ Senior executives of this company have decided to invest in a data analytics pro
 3. The profit and loss statement is the most important piece of analysis any company will need.
 
 ## Objectives
-1. Understanding the data in SQL and creating Views for connecting to Power BI to create Direct query storage mode.
-2. Performing ETL operations in Power Query.
-3. Building Data Models to create relationships for extracting deeper insights from the data. 
-4. Writing measures and creating calculated tables to meet the business and stake holder requirements.
-5. Building Visuals to meet the stakeholder requirements.
-6. Maintenance of Data security through Row level security and Microsoft sensitivity labels.
-7. Deploying the solution and setting up of refresh schedule through gateway. 
+1. Ingesting data (2.5 million records) through Azure Data Factory into Azure Data Lake Gen 2, Performing Tranformation in DataBricks and finally building tables in Azure Synapse.
+2. Connecting Azure Synapse to Power BI for Data Visualization. 
+3. Understanding the data in SQL and creating Views for connecting to Power BI to create Direct query storage mode.
+4. Building Data Models to create relationships for extracting deeper insights from the data. 
+5. Writing measures and creating calculated tables to meet the business and stake holder requirements.
+6. Building Visuals to meet the stakeholder requirements.
+7. Maintenance of Data security through Row level security and Microsoft sensitivity labels.
+8. Deploying the solution and setting up of refresh schedule through gateway. 
 
 ## Visual Requirements
 1. For the sales team, Gross Margin and Net Sales (Revenue) are more important than the Net Profit as typically they have least or no control over operating expenses.
