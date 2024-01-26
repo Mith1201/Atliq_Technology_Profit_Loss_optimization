@@ -29,3 +29,21 @@ Senior executives of this company have decided to invest in a data analytics pro
 1. For the sales team, Gross Margin and Net Sales (Revenue) are more important than the Net Profit as typically they have least or no control over operating expenses.
 2. For the marketing team, it would be important to understand the marketing spend change over a time period and subsequent Revenue / Gross Margin change.
 3. For the supply chain team, import metrics are, Forecast Accuracy & Risk (Out of stock or excess inventory), Net error and Absolute error.
+
+## Dashboard Overview
+
+![1](https://github.com/Mith1201/Atliq_Technology_Profit_Loss_optimization/assets/102762042/c7ba00b6-fce5-453a-b483-d35c5b78c9d9)
+
+![2](https://github.com/Mith1201/Atliq_Technology_Profit_Loss_optimization/assets/102762042/a71a4c3b-44f6-44fa-ab2b-f193a597b71a) 
+
+![3](https://github.com/Mith1201/Atliq_Technology_Profit_Loss_optimization/assets/102762042/b05ffcf5-9ee0-4707-be1f-d0170988997c) 
+
+![4](https://github.com/Mith1201/Atliq_Technology_Profit_Loss_optimization/assets/102762042/6966d40d-ea2c-4455-bad3-9583ca1c2183) 
+
+![5](https://github.com/Mith1201/Atliq_Technology_Profit_Loss_optimization/assets/102762042/8a28f679-c87d-40bc-a78b-eb9fb358efea)
+
+
+
+
+
+
